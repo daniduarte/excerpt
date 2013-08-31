@@ -5,8 +5,8 @@ Excerpt
 jQuery plugin for cut the length of a text you want, it's simple to implement and user.
 
 ## Author
-[@daniduarte_cl](http://www.twitter.com/daniduarte_cl "Dani's Twitter")
-[www.daniduarte.cl](http://daniduarte.cl/ "Dani's website")
+* [@daniduarte_cl](http://www.twitter.com/daniduarte_cl "Dani's Twitter")
+* [www.daniduarte.cl](http://daniduarte.cl/ "Dani's website")
 
 ## Configuration
 There are a few options to help to costumize the plugin behavior:
