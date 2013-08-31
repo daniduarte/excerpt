@@ -2,7 +2,7 @@ Excerpt
 =======
 
 ## Description
-jQuery plugin for cut the length of a text you want, it's simple to implement and user.
+jQuery plugin to cut the length from a text you want.
 
 ## Author
 * [@daniduarte_cl](http://www.twitter.com/daniduarte_cl "Dani's Twitter")
